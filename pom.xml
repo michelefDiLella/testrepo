@@ -8,6 +8,7 @@
   <groupId>com.sample.test</groupId>
   <artifactId>JbpmHelloworldMaven</artifactId>
   <version>1.0.0</version>
+  <packaging>pom</packaging>
 
   <name>jBPM :: Sample Maven Project</name>
   <description>A sample jBPM Maven project</description>
