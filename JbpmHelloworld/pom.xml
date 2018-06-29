@@ -9,7 +9,7 @@
   <artifactId>JbpmHelloworld</artifactId>
   <version>1.0.0</version>
 
-  <name>jBPM :: Sample Maven Project</name>
-  <description>A sample jBPM Maven project</description>
+  <name>jBPM Helloworld Sample</name>
+  <description>A sample jBPM Helloworld project</description>
 
 </project>
