@@ -1,5 +1,5 @@
 <kmodule xmlns="http://jboss.org/kie/6.0.0/kmodule">
-  <kbase name="helloworldKbase" packages="com.sample.*">
+  <kbase name="helloworldKbase" default="true" packages="com.sample.*">
   	<ksession name="helloworldKSession" type="stateful" default="true" clockType="realtime"/>
   </kbase>
 </kmodule>
