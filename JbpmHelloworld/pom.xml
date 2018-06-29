@@ -11,18 +11,5 @@
 
   <name>jBPM Helloworld Sample</name>
   <description>A sample jBPM Helloworld project</description>
-         
-  <distributionManagement>
-	<repository>
-		<id>deployment</id>
-		<name>OpenShift Maven repo</name>
-		<url>file:///opt/rh/rh-maven33/root/usr/share/maven</url>
-	</repository>
-	<snapshotRepository>
-		<id>deployment</id>
-		<name>OpenShift Maven repo</name>
-		<url>file:///opt/rh/rh-maven33/root/usr/share/maven</url>
-	</snapshotRepository>
-</distributionManagement>
 
 </project>
