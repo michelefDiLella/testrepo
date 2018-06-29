@@ -10,8 +10,8 @@
   <version>1.0.0</version>
   <packaging>pom</packaging>
 
-  <name>jBPM Helloworld Sample</name>
-  <description>A sample jBPM Helloworld project</description>
+  <name>jBPM Helloworld Sample parent</name>
+  <description>A sample jBPM Helloworld parent project</description>
   
   <modules>
     <module>JbpmHelloworld</module>
